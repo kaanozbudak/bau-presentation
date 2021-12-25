@@ -1,5 +1,6 @@
 # Kaan Ozbudak - Cloud Data Engineer
 
+
 ## Work Life
 
 - *ciceksepeti.com / mizu.com* - Cloud Data Engineer (April21-?)
@@ -33,8 +34,12 @@
 
 ## Data
 
-- What is data? Importance of data
-- Database (SQL/NoSQL) - DWH Types
-- Database Admin vs Data Engineer vs Data Analyst vs Data Scientist
+- What is data? What is big data? Importance of data.
+- Data types, data collection
+- Database Types (SQL/NoSQL) - DWH Types[](https://)
 - Cloud vs OnPrem
-- Realtime Streaming vs Batch Streaming[](https://)
+- Realtime Streaming vs Batch Streaming / ETL
+- Database Admin vs Data Engineer vs Data Analyst vs Data Scientist
+
+
+![dengflow.png](./assets/deng-flow.png)
