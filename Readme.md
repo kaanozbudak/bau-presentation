@@ -25,13 +25,16 @@
   DataOps, ETL, CircleCİ, Centos&Ubuntu, Git&CI/CD, Jira
 - Google Cloud Techs such as:
 
-    - Cloud Composer (Airflow), Cloud Function, PubSub, Cloud Run, Cloud Storage, MemoryStore, Container Registry, Cloud
-      Load Balancer, Api Gateway, IAM etc.
+  - Cloud Composer (Airflow), Cloud Function, PubSub, Cloud Run, Cloud Storage, MemoryStore, Container Registry, Cloud
+    Load Balancer, Api Gateway, IAM etc.
 - Amazon Cloud Techs such as:
 
-    - Lambda, ECR, ECS, LB, SES, Dynamo, SAR, S3, RDS, Gateway, Route 53
+  - Lambda, ECR, ECS, LB, SES, Dynamo, SAR, S3, RDS, Gateway, Route 53
 
 ## Data
 
-- Importance of data
--
+- What is data? Importance of data
+- Database (SQL/NoSQL) - DWH Types
+- Database Admin vs Data Engineer vs Data Analyst vs Data Scientist
+- Cloud vs OnPrem
+- Realtime Streaming vs Batch Streaming[](https://)
