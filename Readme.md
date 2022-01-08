@@ -1,6 +1,5 @@
 # Kaan Ozbudak - Cloud Data Engineer
 
-
 ## Work Life
 
 - *ciceksepeti.com / mizu.com* - Cloud Data Engineer (April21-?)
@@ -14,11 +13,11 @@
 
 ## Social Media Links
 
-- kaanozbudak.com
-- linkedin.com/in/kaanozbudak
-- instagram.com/kaanozbudakcom
-- twitter.com/kaanozbudakcom
-- github.com/kaanozbudak
+- [kaanozbudak.com](https://kaanozbudak.com)
+- [linkedin.com/in/kaanozbudak](https://linkedin.com/in/kaanozbudak)
+- [instagram.com/kaanozbudakcom](https://instagram.com/kaanozbudakcom)
+- [twitter.com/kaanozbudakcom](https://twitter.com/kaanozbudakcom)
+- [github.com/kaanozbudak](https://github.com/kaanozbudak)
 
 ## Interesting Tech Stack
 
@@ -36,10 +35,13 @@
 
 - What is data? What is big data? Importance of data.
 - Data types, data collection
-- Database Types (SQL/NoSQL) - DWH Types[](https://)
+- Database Types (Relational/Non Relational Databases) - DWH Types
 - Cloud vs OnPrem
 - Realtime Streaming vs Batch Streaming / ETL
 - Database Admin vs Data Engineer vs Data Analyst vs Data Scientist
 
-
 ![dengflow.png](./assets/deng-flow.png)
+
+- Who needs Data Engineer? Why?
+- What should we do become a data engineer?
+- Data Engineering Road Map: [github.com/datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
