@@ -18,6 +18,7 @@
 - [instagram.com/kaanozbudakcom](https://instagram.com/kaanozbudakcom)
 - [twitter.com/kaanozbudakcom](https://twitter.com/kaanozbudakcom)
 - [github.com/kaanozbudak](https://github.com/kaanozbudak)
+- [kaanozbudak.medium.com/](https://kaanozbudak.medium.com)
 
 ## Interesting Tech Stack
 
