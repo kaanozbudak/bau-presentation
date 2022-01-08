@@ -35,6 +35,7 @@
 ## Data
 
 - What is data? What is big data? Importance of data.
+- What is data engineering?[](https://)
 - Data types, data collection
 - Database Types (Relational/Non Relational Databases) - DWH Types
 - Cloud vs OnPrem
